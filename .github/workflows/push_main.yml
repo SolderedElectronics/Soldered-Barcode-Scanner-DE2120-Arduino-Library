@@ -26,6 +26,7 @@ jobs:
 
       - run: cp -r ./dev/examples ./examples
       - run: cp -r ./dev/src ./src
+      - run: cp -r ./dev/barcodes ./barcodes
       - run: cp ./dev/LICENSE ./LICENSE
       - run: cp ./dev/README.md ./README.md
       - run: cp ./dev/keywords.txt ./keywords.txt
