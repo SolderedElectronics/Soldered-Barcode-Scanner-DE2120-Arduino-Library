@@ -17,6 +17,9 @@
  *              The scanner must first be put into TTL/RS232 mode by
  *              scanning the POR232 barcode from the DYScan settings
  *              manual before uploading this sketch.
+ * 
+ *              Make sure you have SoftwareSerial library installed. It
+ *              can be found in Arduino library manager.
  *
  * @authors     Fran Fodor @ soldered.com
  ***************************************************/

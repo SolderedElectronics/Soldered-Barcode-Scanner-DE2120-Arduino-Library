@@ -19,6 +19,9 @@
  *              scanning the POR232 barcode from the DYScan settings
  *              manual. Change the SoftwareSerial pin arguments to match
  *              your wiring before uploading.
+ * 
+ *              Make sure you have SoftwareSerial library installed. It
+ *              can be found in Arduino library manager.
  *
  * @authors     Fran Fodor @ soldered.com
  ***************************************************/
