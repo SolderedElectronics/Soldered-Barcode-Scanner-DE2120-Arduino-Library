@@ -19,7 +19,9 @@
 class DE2120_Soldered : public DE2120
 {
   public:
-    DE2120_Soldered() : DE2120() {}
+    DE2120_Soldered() : DE2120()
+    {
+    }
 };
 
 #endif
