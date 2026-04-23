@@ -8,7 +8,7 @@
 | :------------------------------------------------------------------------------------: |
 |                      [DE2120 Barcode Scanner](https://www.solde.red/SKU)               |
 
-10:15 AMClaude responded: The DE2120 is a compact embedded barcode scanner module by DYScan.The DE2120 is a compact embedded barcode scanner module by DYScan. It uses a CMOS camera with onboard image processing to read 20 different 1D and 2D barcode symbologies (UPC, EAN, Code 128, QR Code, Data Matrix, and more) from paper, screens, and other surfaces. It communicates over TTL UART or USB and is configurable via serial commands or command barcodes.
+The DE2120 is a compact embedded barcode scanner module by DYScan.The DE2120 is a compact embedded barcode scanner module by DYScan. It uses a CMOS camera with onboard image processing to read 20 different 1D and 2D barcode symbologies (UPC, EAN, Code 128, QR Code, Data Matrix, and more) from paper, screens, and other surfaces. It communicates over TTL UART or USB and is configurable via serial commands or command barcodes.
 
 ### Repository Contents
 
