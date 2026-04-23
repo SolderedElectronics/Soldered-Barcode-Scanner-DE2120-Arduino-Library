@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['begin_0',['begin',['../class_d_e2120.html#a3690439931b6e69834bf59096361efaa',1,'DE2120::begin(HardwareSerial &amp;serialPort)'],['../class_d_e2120.html#a167fda88632ceaecab64e3e4bb4b5beb',1,'DE2120::begin(SoftwareSerial &amp;serialPort)']]]
 ];

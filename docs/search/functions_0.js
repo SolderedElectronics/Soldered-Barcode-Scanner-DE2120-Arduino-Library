@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]]
+  ['available_0',['available',['../class_d_e2120.html#a3a535fc14292e5799c8d5696d12f2c6c',1,'DE2120']]]
 ];
