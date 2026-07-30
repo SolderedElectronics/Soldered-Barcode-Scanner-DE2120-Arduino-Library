@@ -4,9 +4,9 @@
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/arduino_lint.yml)
 [![ATtiny Firmware Compile Test](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/attiny_test.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/attiny_test.yml)
 
-| ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Product name](https://raw.githubusercontent.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/dev/extras/product.jpg) |
 | :------------------------------------------------------------------------------------: |
-|                      [DE2120 Barcode Scanner](https://www.solde.red/SKU)               |
+|                      [DE2120 Barcode Scanner](https://www.solde.red/333384)               |
 
 The DE2120 is a compact embedded barcode scanner module by DYScan.The DE2120 is a compact embedded barcode scanner module by DYScan. It uses a CMOS camera with onboard image processing to read 20 different 1D and 2D barcode symbologies (UPC, EAN, Code 128, QR Code, Data Matrix, and more) from paper, screens, and other surfaces. It communicates over TTL UART or USB and is configurable via serial commands or command barcodes.
 
@@ -47,10 +47,6 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 - [Tutorials & Projects](https://soldered.com/learn)
 - [Documentation](https://docs.soldered.com)
 
-### Original source
-
-​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle.
 
 ### Open-source license
 
