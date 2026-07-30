@@ -2,7 +2,6 @@
 
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/make_docs.yml)
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/arduino_lint.yml)
-[![ATtiny Firmware Compile Test](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/attiny_test.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/actions/workflows/attiny_test.yml)
 
 | ![Product name](https://raw.githubusercontent.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library/dev/extras/product.jpg) |
 | :------------------------------------------------------------------------------------: |
